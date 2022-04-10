@@ -1,8 +1,8 @@
 # SRIP-IITGN-2022---Machine-Learning---Prof.-Nipun-Batra
-This is Anushka Rajput
-Reg Id: 21149376
-IP0NB0000010 - Programatically Understanding ML Faculty Advisor: Nipun Batra
-This submission consist of solution for task 3 and task 4 
+# This is Anushka Rajput
+# Reg Id: 21149376
+# IP0NB0000010 - Programatically Understanding ML Faculty Advisor: Nipun Batra
+# This submission consist of solution for task 3 and task 4 
 
 Task 3 : Implement two hidden layers neural network classifier from scratch in JAX
 
